@@ -5,4 +5,4 @@ To get more explanation on what the code does, navigate to the projectexplanatio
 To get the output images of the code when run, navigate to the assets folder and view reult-1 and result-2
 Here is a screenshot showing the output
 
-![Gas Station Simulation Output](./assets/result-1.png)
+![Gas Station Simulation Output](../assets/result-1.png)
